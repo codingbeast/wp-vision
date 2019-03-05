@@ -5,6 +5,6 @@ Step2: type <br>
 if it not working then type <br>
 <b> chmod 777 * </b> <br>
 step3: type <br>
-<b> ./wp-vision</b>
+<b> ./wp-vision</b><br>
 #window <br>
 simply double click on the wp-vision program is start runing</br
