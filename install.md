@@ -7,4 +7,6 @@ if it not working then type <br>
 step3: type <br>
 <b> ./wp-vision</b><br>
 #window <br>
-simply double click on the wp-vision program is start runing</br
+simply double click on the wp-vision program is start runing</br>
+HAPPY CODING <br>
+RAJKUMAR fb.com/raj0kumar00
