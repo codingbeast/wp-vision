@@ -1,4 +1,8 @@
-# wp-vision
+# wp-vision<br>
+version- 1.0.0<br>
+version -1.0.0<br>
+fix not working in linux oprating systems
+
 <b> what is vision </b><br>
 wp-vision is a tool that is use to send multiple massages to whatsapp numbers.
 we can use the numbers into the text file and this tool send massages all the numbers autometicly.</br>
