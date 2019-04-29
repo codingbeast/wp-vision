@@ -1,0 +1,7 @@
+Que1 : what is wp-vision
+Ans: wp-vision is a tool that is use to send massga to the whatsapp user unlimited times.
+Without any problem.
+you can provide a number list or numbers in a file and send the massage to the all user .
+Que2: how to use?
+Ans: just download the software accourdingg to your system configration and double click it .
+More informtion please read the readme file Thankyou.
